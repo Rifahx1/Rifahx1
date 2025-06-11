@@ -6,8 +6,10 @@
 
 🧠 Skills
 - Networking Fundamentals & OSI Model
-- Linux (Basic CLI, File Permissions, Scripting)
+- Linux (CLI, File Permissions, Scripting)
 - Languages: Python (beginner), Bash (basic)
+
+- 
 
 <!---
 Rifahx1/Rifahx1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
